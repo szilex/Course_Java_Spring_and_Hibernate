@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hibernate-demo-one-to-one.iml" filepath="$PROJECT_DIR$/Hibernate-demo-one-to-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hibernate-demo-many-to-many.iml" filepath="$PROJECT_DIR$/.idea/Hibernate-demo-many-to-many.iml" />
     </modules>
   </component>
 </project>

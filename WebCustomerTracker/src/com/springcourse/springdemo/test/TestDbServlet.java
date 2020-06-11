@@ -1,4 +1,4 @@
-package com.springcourse.springdemo;
+package com.springcourse.springdemo.test;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

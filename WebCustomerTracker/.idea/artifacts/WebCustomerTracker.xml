@@ -11,6 +11,7 @@
           <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
           <element id="library" level="project" name="mysql-connector-java-8.0.20" />
           <element id="library" level="project" name="javax.servlet.jsp.jstl-1.2.1" />
+          <element id="library" level="project" name="antlr-2.7.7" />
         </element>
       </element>
     </root>
