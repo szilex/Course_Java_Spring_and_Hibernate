@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebCustomerTracker">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebCustomerTracker</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebCustomerTracker/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebCustomerTracker" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.20" />
+          <element id="library" level="project" name="javax.servlet.jsp.jstl-1.2.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
