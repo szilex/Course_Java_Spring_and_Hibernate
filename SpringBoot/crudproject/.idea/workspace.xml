@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e27cb989-c898-429b-8472-a9243f15a1d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringBootApp/SpringBootApp/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootApp/SpringBootApp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootApp/SpringBootApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootApp/SpringBootApp/src/main/java/com/springcourse/springboot/SpringBootApp/rest/IndexPageRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springboot/crudproject/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springboot/crudproject/dao/EmployeeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springboot/crudproject/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springboot/crudproject/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springboot/crudproject/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springboot/crudproject/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/Resources/jackson-databinding-json-demo/jackson-databind-json-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-JSON-demo/SpringREST-JSON-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-JSON-demo/src/main/java/com/springcourse/springrest/demo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-JSON-demo/src/main/java/com/springcourse/springrest/demo/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-JSON-demo/src/main/java/com/springcourse/springrest/demo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/artifacts/SpringREST_crm_client_demo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/artifacts/SpringREST_crm_client_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_orm_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-client-demo/SpringREST-crm-client-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/artifacts/SpringREST_crm_demo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/artifacts/SpringREST_crm_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_javassist_javassist_3_25_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_orm_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_tx_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/SpringREST-crm-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/src/main/java/com/springcourse/springdemo/rest/CustomerErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/src/main/java/com/springcourse/springdemo/rest/CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/src/main/java/com/springcourse/springdemo/rest/CustomerRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-crm-demo/src/main/java/com/springcourse/springdemo/rest/CustomerRestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/artifacts/SpringREST_demo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/artifacts/SpringREST_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/SpringREST-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/java/com/springcourse/springrest/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/java/com/springcourse/springrest/config/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/java/com/springcourse/springrest/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/java/com/springcourse/springrest/rest/DemoRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/java/com/springcourse/springrest/rest/StudentErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/java/com/springcourse/springrest/rest/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/java/com/springcourse/springrest/rest/StudentRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/java/com/springcourse/springrest/rest/StudentRestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringREST/SpringREST-demo/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dMKXTTxNmJBJWVby6jejlV4hGv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.springcourse.springboot.crudproject.service" />
+      <recent name="com.springcourse.springboot.crudproject.dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CrudprojectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crudproject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcourse.springboot.crudproject.CrudprojectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e27cb989-c898-429b-8472-a9243f15a1d8" name="Default Changelist" comment="" />
+      <created>1592229561719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592229561719</updated>
+      <workItem from="1592229563228" duration="3822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1231" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592231646478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1231" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592231646478" />
+    <state width="942" height="271" key="GridCell.Tab.0.bottom" timestamp="1592234275791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="942" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592234275791" />
+    <state width="942" height="271" key="GridCell.Tab.0.center" timestamp="1592234275791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="942" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592234275791" />
+    <state width="942" height="271" key="GridCell.Tab.0.left" timestamp="1592234275791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="942" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592234275791" />
+    <state width="942" height="271" key="GridCell.Tab.0.right" timestamp="1592234275791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="942" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592234275791" />
+    <state width="942" height="271" key="GridCell.Tab.1.bottom" timestamp="1592234275792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="942" height="271" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592234275792" />
+    <state width="942" height="271" key="GridCell.Tab.1.center" timestamp="1592234275791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="942" height="271" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592234275791" />
+    <state width="942" height="271" key="GridCell.Tab.1.left" timestamp="1592234275791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="942" height="271" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592234275791" />
+    <state width="942" height="271" key="GridCell.Tab.1.right" timestamp="1592234275792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="942" height="271" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592234275791" />
+  </component>
+</project>
